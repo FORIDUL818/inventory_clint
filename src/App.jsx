@@ -1,9 +1,10 @@
+import Router from "./Common/Router/Router"
 
 
 function App() {
   return (
     <div>
-      this is practice time okey
+      <Router/>
     </div>
   )
 }
